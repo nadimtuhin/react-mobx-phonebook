@@ -5,9 +5,9 @@
 git clone git@github.com:gaearon/react-hot-boilerplate.git
 cd react-hot-boilerplate
 git checkout next
+npm i
 npm i babel-plugin-transform-decorators-legacy --save-dev
-npm install mobx mobx-react --save
-npm install
+npm i mobx mobx-react --save
 ```
 
 ## add in .babelrc
